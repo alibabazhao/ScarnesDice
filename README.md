@@ -33,6 +33,15 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Implement the Handler.postDelayed to create a timed event that will do so after an appropriate delay.
 
+## Source
+
+This is the coding workshop from Google. 
+This workshop is part of the Applied CS with Android course:
+
+http://g.co/cswithandroid
+
+Check the website for detailed instructions on how to implement this activity.
+
 ## License
 
     Copyright [2019] [Ali Zhao]
